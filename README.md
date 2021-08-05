@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rbeard7
-- 👀 I’m interested in developing action RPG titles, electronic trance music in Cubase
+- 👀 I’m interested in developing action RPG titles
 - 🌱 I’m currently learning C#, Maya, Cinemachine in Unity
 - 💞️ I’m looking to collaborate on open-world titles
 - 📫 How to reach me email at ronbeard127@gmail.com
